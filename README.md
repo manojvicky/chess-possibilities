@@ -2,8 +2,8 @@
 
 live demo : https://7sm8k.csb.app/
 
-Installation
-
+**Installation**
+<hr>
 ```js
 npm install
 npm start
