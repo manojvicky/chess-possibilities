@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+#app {
+  width: 560px;
+  height: 560px;
+}
+.main {
+  display: flex;
+  justify-content: space-evenly;
+}
+.box {
+  width: 69px;
+  height: 69px;
+  border: 0.5px solid darkred;
+}
+.row {
+  display: flex;
+}
+.black {
+  background: black;
+}
